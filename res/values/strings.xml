@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">seq</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array android:id="@+id/stringarray1" name="instArray" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <item android:id="@+id/item1" android:layout_width="wrap_content" android:layout_height="wrap_content">Drum</item>
+        <item android:id="@+id/item1" android:layout_width="wrap_content" android:layout_height="wrap_content">Guitar</item>
+        <item android:id="@+id/item1" android:layout_width="wrap_content" android:layout_height="wrap_content">Bass</item>
+        <item android:layout_height="wrap_content" android:id="@+id/item1" android:layout_width="wrap_content">Steel Guitar</item>
+        <item android:layout_height="wrap_content" android:id="@+id/item1" android:layout_width="wrap_content">Piano</item>
+        <item android:id="@+id/item1" android:layout_height="wrap_content" android:layout_width="wrap_content">Recording</item>
+    </string-array>
+    <string-array android:id="@+id/stringarray1" name="soundArray" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <item android:id="@+id/item1" android:layout_width="wrap_content" android:layout_height="wrap_content">Sound 1</item>
+        <item android:id="@+id/item1" android:layout_width="wrap_content" android:layout_height="wrap_content">Sound 2</item>
+        <item android:id="@+id/item1" android:layout_width="wrap_content" android:layout_height="wrap_content">Sound 3</item>
+        <item android:id="@+id/item1" android:layout_width="wrap_content" android:layout_height="wrap_content">Sound 4</item>
+        <item android:id="@+id/item1" android:layout_width="wrap_content" android:layout_height="wrap_content">Sound 5</item>
+        <item android:id="@+id/item1" android:layout_width="wrap_content" android:layout_height="wrap_content">Sound 6</item>
+        <item android:id="@+id/item1" android:layout_width="wrap_content" android:layout_height="wrap_content">Sound 7</item>
+        <item android:id="@+id/item1" android:layout_width="wrap_content" android:layout_height="wrap_content">Sound 8</item>
+        <item android:id="@+id/item1" android:layout_width="wrap_content" android:layout_height="wrap_content">Sound 9</item>
+    </string-array>
+
+    <string name="title_activity_home">Home</string>
+
+</resources>
